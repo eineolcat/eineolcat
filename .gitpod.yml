@@ -1,0 +1,6 @@
+tasks:
+  -init:
+    pip install -r requirement
+    s.txt
+      extensions:
+        -ms-pxthon.pxthon

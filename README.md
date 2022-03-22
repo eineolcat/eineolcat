@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eineolcat
 - 👀 I’m interested in music, sports and reading
-- 🌱 I’m currently learning french and english
+- 🌱 I’m currently learning French and English
 -    My favourite colour is turquoise
 - 📫 How to reach me: good try;)
 
